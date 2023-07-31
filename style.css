@@ -1,0 +1,69 @@
+body{
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/62/Starsinthesky.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+
+
+    background-color:#bb89f4;
+    font-family: font-family; 
+   
+}
+
+
+img{
+    width:400px;
+    border-radius: 20px;
+
+}
+
+.josephine{
+    width: 200px;
+
+}
+
+.title-astrobiologia{
+    font-size: 60;
+
+   
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: rgb(172, 4, 4);
+
+    }
+
+    .title-Universo{
+        font-size:  60;
+
+        
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: rgb(172, 4, 4);
+        
+    }
+
+    .title-estrellas{
+        font-size: 60;
+
+        
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: rgb(172, 4, 4);
+        }
+    
+    .main-title{
+        font-family: 'Ysabeau Office', sans-serif;
+        color: rgb(227, 227, 236);
+    }
+
+
+.title-El espacio exterior{
+    font-size: 60px;
+
+    
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #f6f5f5;
+    }
+
+/*
+selector{
+    propiedad: valor;
+}
+*/
